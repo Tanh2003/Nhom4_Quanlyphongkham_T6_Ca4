@@ -30,11 +30,8 @@ Nguyễn Tuấn Kiệt               | Dev                  | 21DH113808        
 Nguyễn Tuấn Anh                | Team leader          | 21DH113451         |
 Đinh Duy Tú                    | Scrum master         | 21DH114284         |
 
-
-==========================
-
+## Chi tiết ##
 😎Các Công Nghệ Sử Dụng
-
 
 ~~~
 
