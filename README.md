@@ -1,6 +1,4 @@
-
-Web Quản Lí Phòng Khám<a name="TOP"></a>
-===================
+<h1 align="center">Website Quản Lý Phòng Khám 🚑</h1>
 
 ![image](https://github.com/nguyenkietmd2003/CNPM_NC/assets/107006189/604fbeee-ebeb-4b48-9e57-d0dfb9c5c009)
 
