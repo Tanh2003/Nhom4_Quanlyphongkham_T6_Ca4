@@ -1,4 +1,5 @@
-# Nhom4_Quanlyphongkham_T6_Ca4
+# Website Quản Lý Phòng Khám 🚑
+<
 ✨Ngày nay, với cuộc sống hiện đại và bận rộn, việc đi đến phòng khám trở nên khó khăn đối với nhiều người. Đây là lúc một số hệ thống khám sức khỏe trực tuyến xuất hiện, và trong bài viết này, chúng ta sẽ tìm hiểu về một trong những hệ thống này - Health Care.
 
 ✨Health Care là một trang web hệ thống khám sức khỏe trực tuyến với mục tiêu mang lại sự tiện lợi và dịch vụ chăm sóc sức khỏe tốt nhất cho người dùng.Health Care đã trở thành một lựa chọn phổ biến nhờ vào những tiện ích như đặt lịch hẹn khám, quản lý sức khỏe cá nhân và tất cả những tiện ích này khách hàng đều có thể thực hiện trực tuyến. Đặc biệt hơn, hệ thống còn mang đến cho khách hàng một trải nghiệm mới mẻ hơn khi họ có thể nhận được tư vấn miễn phí của bác sĩ 24/24 về dinh dưỡng, lối sống, kiến thức về y tế chỉ thông qua màn hình điện thoại hoặc máy tính mà không cần đến phòng khám. 
