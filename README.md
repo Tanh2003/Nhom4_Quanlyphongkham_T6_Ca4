@@ -31,7 +31,7 @@ Nguyễn Tuấn Anh                | Team leader          | 21DH113451         |
 
 1. Backend👏
     1. NodeJS
-    2. MongoDB
+    2. MySQL
 2. Frontend🐱‍👤👌
     1. ReactJS
     2. Sass
