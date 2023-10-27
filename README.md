@@ -12,10 +12,6 @@
 
 🤣Bên cạnh đó, hệ thống đảm bảo việc phân hệ để phòng khám có thể dễ dàng quản lý được các hoạt động của phòng khám như đặt lịch hẹn khám...và quản lý được thông tin của bác sĩ cũng như bệnh nhân một cách thuận tiện nhất.  Health Care là một hệ thống khám sức khỏe trực tuyến đáng tin cậy và tiện lợi. Với các tính năng độc đáo và dịch vụ chất lượng, trang web giúp nhiều người duy trì sức khỏe tốt và theo dõi sức khỏe cá nhân một cách hiệu quả. Sự phát triển của các hệ thống khám sức khỏe trực tuyến như Health Care mang lại sự tiện lợi và hy vọng cho việc quản lý sức khỏe cá nhân của chúng ta trong tương lai.
 
-## Link liên kết ##
-
-https://bookingcare.vn/
-
 ## Nhóm 4 ##
 
 `Danh Sách Thành Viên()`
@@ -64,7 +60,8 @@ Nguyễn Tuấn Anh                | Team leader          | 21DH113451         |
 
 `HomePage()`
 
-![image](https://github.com/nguyenkietmd2003/CNPM_NC/assets/107006189/36029cdc-6a2a-4480-904a-02b0aa1152d0)
+![image](https://github.com/Tanh2003/Nhom4_Quanlyphongkham_T6_Ca4/assets/107006189/2197c5da-19f2-45cf-a3dc-4694fc809a4a)
+
 
 
 
