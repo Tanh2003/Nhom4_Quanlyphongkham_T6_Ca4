@@ -51,7 +51,7 @@ Nguyễn Tuấn Anh                | Team leader          | 21DH113451         |
 - Và những trang dành cho khách hàng có thể xem tổng quát về website như trang xem giới thiệu, xem chuyên khoa.
 - Có thể đăng nhập đăng ký cho tài khoản
   
-🙌Chưa hoàn thành:
+🙌Hướng phát triển:
 - Quản lí thông tin cá nhân
 - Đặt lịch hẹn khám 
 
