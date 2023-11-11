@@ -1,0 +1,39 @@
+.user-info-container {
+  margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+   
+  
+    .user-info-left {
+      width: 50%;
+      margin-left: 150px;
+  
+      img {
+        max-width: 250px;
+        height: auto;
+        display: block; // Để căn giữa ảnh
+      }
+    }
+  
+    .user-info-right {
+        width: 50%;
+        padding: 10px;
+        border: 1px solid #ccc;
+        box-shadow: 2px 2px 5px #888888;
+        margin-right: 200px;
+      h2 {
+        margin-bottom: 10px;
+      }
+  
+      p {
+        margin: 5px 0;
+      }
+    }
+  }
+
+  .otrong{
+    margin-top: 200px;
+  }
+  

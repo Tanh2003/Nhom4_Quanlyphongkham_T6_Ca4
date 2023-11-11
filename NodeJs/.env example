@@ -1,0 +1,5 @@
+PORT=8080
+NODE_ENV=development
+URL_REACT=http://localhost:3000
+EMAIL_APP_PASSWORD=vghmqlxlbascdatw
+EMAIL_APP=nguyentuankietmd2003@gmail.com

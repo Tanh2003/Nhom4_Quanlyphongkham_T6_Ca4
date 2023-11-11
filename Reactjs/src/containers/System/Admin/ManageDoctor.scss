@@ -1,0 +1,35 @@
+.manage-doctor-container{
+    padding: 5px;
+    .manage-doctor-title{
+        text-align: center;
+        margin: 15px 0;
+        font-size: 20px;
+        text-transform: uppercase;
+        font-weight: 600;
+    }
+    .save-content-doctor{
+        cursor: pointer;
+
+        &:hover{
+            opacity: 0.9;
+        }
+    }
+    .more-infor{
+        display: flex;
+        gap: 15px;// cachs nhau 
+        .content-left{
+            width: 40%;
+            padding-bottom: 15px;
+        }
+        .content-right{
+            width: 60%;
+        }
+    }
+}
+
+
+.page-footer{
+    border-top: 1px solid rgb(215, 215, 215);
+    background-color:white;
+
+}

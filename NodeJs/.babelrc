@@ -1,0 +1,4 @@
+{
+    "presets":["@babel/preset-env"]
+}
+// file này để làm cho thư viện hoạt động

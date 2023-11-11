@@ -1,0 +1,124 @@
+.doctor-header-container{
+    height: 40px;
+    width: 100%;
+    padding: 0 20px;
+    
+    background-color: #3498db;
+    box-shadow: 2px 2px 5px 0px rgba(0, 0, 0, 0.5);
+    .doctor-header-content{
+        width: 100%;
+        height: 100%;
+        display: flex;
+        .doctor-left-content{
+            width: 25%;
+            display: flex;
+            align-items: center;
+            font-size: 15px;
+            color: white;
+            cursor: pointer;
+            
+            .custom-link {
+                color: white; /* Đặt màu chữ cho liên kết là màu đen */
+                text-decoration: none; /* Loại bỏ gạch chân mặc định trên liên kết */
+            }
+            
+            &.hover {
+                text-decoration: underline !important; /* Hiển thị gạch chân khi di chuột qua liên kết */
+            }
+
+            .text-doctor{
+                
+                align-items: center;
+                margin-left: 20px;
+                
+                cursor: pointer;
+                
+            }
+            .i{
+                font-size: 25px;
+                color: gray;
+                cursor: pointer;
+            }
+        }
+        .doctor-center-content{
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            width: 50%;
+           .child-content{
+                .subs-title{
+                    font-weight: 400;
+                    font-size: 12px;
+                }
+           }
+        }
+        .doctor-right-content{
+            width: 25%;
+            display: flex   ;
+            justify-content: center;
+            align-items: center;
+           
+        }
+    }
+}
+.search-container {
+    display: flex;
+    align-items: center;
+    width: auto;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.search-container input[type="text"] {
+    border-radius: 15px;
+    width: 100%;
+    padding: 1px;
+    font-size: 15px;
+    padding-left: 15px;
+    border: 1px solid #ccc; /* Màu border ban đầu */
+}
+
+/* Thay đổi màu nền và màu border khi input được focus */
+.search-container input[type="text"]:focus {
+    background-color: #f2f2f2; /* Màu nền khi focus */
+    border: 1px solid #ddd; /* Màu border khi focus */
+    outline: none; /* Loại bỏ viền màu xanh khi focus */
+}
+
+// scss của listdocdor
+.doctor-container {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    background-color: #f2f2f2;
+    cursor: pointer;
+}
+
+.doctor-image {
+    
+    margin-right: 20px;
+    border: 1px solid #ccc;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-size: cover; /* Để hình ảnh phủ kín khung tròn */
+    background-position: center; 
+}
+
+
+
+.doctor-info {
+    flex: 10;
+}
+
+.doctor-name {
+    font-size: 15px;
+    margin-bottom: 10px;
+}
+
+.doctor-specialty {
+    font-size: 13px;
+}
+
+

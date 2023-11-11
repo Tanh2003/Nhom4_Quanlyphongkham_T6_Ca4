@@ -1,0 +1,33 @@
+.specialty-container {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    background-color: #f2f2f2;
+    cursor: pointer;
+}
+
+.specialty-image {
+    
+    margin-right: 20px;
+    border: 1px solid #ccc;
+    height: 100px;
+    width: 200px;
+    
+    background-size: cover; /* Để hình ảnh phủ kín khung tròn */
+    background-position: center; 
+}
+
+
+
+.specialty-info {
+    flex: 10;
+}
+
+.specialty-name {
+    font-size: 15px;
+    margin-bottom: 10px;
+}
+
+.specialty-specialty {
+    font-size: 13px;
+}

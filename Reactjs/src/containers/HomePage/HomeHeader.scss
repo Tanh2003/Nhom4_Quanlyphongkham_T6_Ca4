@@ -1,0 +1,141 @@
+.home-header-container{
+    height: 60px;
+    width: 100%;
+    padding: 0 20px;
+    background: white;
+    
+    .home-header-content{
+        width: 100%;
+        height: 100%;
+        display: flex;
+        .left-content{
+            width: 25%;
+            display: flex;
+            align-items: center;
+
+            .header-logo {
+                background: url('../../assets/images/logone.jpg') center center no-repeat;
+                height: 100%;
+                width: 100%;
+                cursor: pointer;
+                
+            }
+            .i{
+                font-size: 25px;
+                color: gray;
+                cursor: pointer;
+            }
+        }
+        .center-content{
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            width: 50%;
+           .child-content{
+                .subs-title{
+                    font-weight: 400;
+                    font-size: 12px;
+                    cursor: pointer;
+                }
+                .chuyenkhoa{
+                    cursor: pointer;
+                }
+                .bacsi{
+                    cursor: pointer;
+                }
+                .gioithieu{
+                    cursor: pointer;
+                }
+               
+           }
+           
+            
+            
+            &.hover {
+                text-decoration: underline !important; /* Hiển thị gạch chân khi di chuột qua liên kết */
+            }
+
+       
+       
+        }
+        .right-content{
+            width: 30%;
+            display: flex   ;
+            justify-content: center;
+            align-items: center;
+            .login-homepage{
+                
+                padding-left: 150px;
+                border: none;
+            }
+        }
+    }
+}
+.home-header-banner{
+    background: url('../../assets/images/home2.jpg') ;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    .content-up{
+        padding-top: 15px;
+        height: 50%;
+        .title1{
+            text-align: center;
+            font-size: 30px;
+            text-shadow: 1px 1px 1px #333;
+            margin-bottom: 5px;
+            color: white;
+            margin-top: 30px;
+        }
+        .title2{
+            text-align: center;
+            font-size: 30px;
+            text-shadow: 1px 1px 1px #333;
+            color: white;
+            margin-bottom: 10px;
+        }
+        .search{
+            width: fit-content;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin: 0 auto;
+            padding: 10px;
+            border-radius: 25px;
+            background: #f7d800;
+            i{
+                margin: 0 5px;
+            }
+            input{
+                height: 30px;
+                width: 360px;
+                background: transparent;
+                border: none;
+                outline: none;
+            }
+        }
+    }
+
+ 
+}
+.Intro {
+    border-top: 1px solid rgb(215, 215, 215);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+   
+   
+    
+  }
+  
+  .Intro-section {
+    text-align: center;
+    margin: 20px;
+  }
+  
+
+
